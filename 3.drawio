@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="oRQ6pljc1RHxe3UtSSmr">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-2" target="ElaeeOkPDqMsNFyPeTNg-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-2" value="Bắt đầu&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-11" target="ElaeeOkPDqMsNFyPeTNg-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-9" target="ElaeeOkPDqMsNFyPeTNg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-9" target="ElaeeOkPDqMsNFyPeTNg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-9" value="Kiểm tra thông tin đã hợp lệ chưa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ElaeeOkPDqMsNFyPeTNg-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-11" value="Nhập thông tin cá nhân như tên, email và mật khẩu." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="326.25" y="160" width="167.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-13" target="ElaeeOkPDqMsNFyPeTNg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-13" value="Đăng ký tài khoản" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-15" value="&amp;nbsp;thông báo lỗi và yêu cầu nhập lại" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="315" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-17" target="ElaeeOkPDqMsNFyPeTNg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-17" value="Hệ thống gửi yêu cầu xác nhận tài khoản" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.07;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-15" target="ElaeeOkPDqMsNFyPeTNg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-20" value="Đăng ký tài khoản thành công" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-22" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElaeeOkPDqMsNFyPeTNg-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ElaeeOkPDqMsNFyPeTNg-20" target="ElaeeOkPDqMsNFyPeTNg-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
