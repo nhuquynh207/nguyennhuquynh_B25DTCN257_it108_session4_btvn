@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="JSM8rFJzAYDCdEFbciOS">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-1" target="NPiyHnTK7T0ngpwphkUu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-1" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-2" target="NPiyHnTK7T0ngpwphkUu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-2" value="Liệt kê các công việc cần làm trong ngày." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-4" target="NPiyHnTK7T0ngpwphkUu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-4" value="Chọn công việc cần làm trước." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-6" target="NPiyHnTK7T0ngpwphkUu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-6" value="Hoàn thành công việc và đánh dấu là đã xong." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-8" target="NPiyHnTK7T0ngpwphkUu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-14" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NPiyHnTK7T0ngpwphkUu-11">
+          <mxGeometry x="-0.2763" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-8" value="&amp;nbsp; &amp;nbsp;Kiểm tra có công việc nào chưa xong không" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="540" width="175" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-10" target="NPiyHnTK7T0ngpwphkUu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-10" value="Làm tiếp công việc&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-12" value="&amp;nbsp; Kết thúc ngày làm việc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-8" target="NPiyHnTK7T0ngpwphkUu-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="440" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-16" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NPiyHnTK7T0ngpwphkUu-15">
+          <mxGeometry x="-0.4316" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-17" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NPiyHnTK7T0ngpwphkUu-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NPiyHnTK7T0ngpwphkUu-12" target="NPiyHnTK7T0ngpwphkUu-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1000" as="sourcePoint" />
+            <mxPoint x="440" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
